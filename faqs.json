@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "What is a railway inspection robot?",
+    "answer": "A railway inspection robot is a robotic system designed to inspect railway tracks and help identify defects such as cracks and damage."
+  },
+  {
+    "question": "Why is railway track inspection important?",
+    "answer": "Railway track inspection helps identify defects early, improves railway safety, and supports timely maintenance."
+  },
+  {
+    "question": "How does the robot detect cracks?",
+    "answer": "The robot can use a camera and image processing or an AI model trained on railway track images to identify possible cracks."
+  },
+  {
+    "question": "Which sensors can the robot use?",
+    "answer": "The robot may use a camera for visual inspection, an encoder for wheel movement, GPS for location outdoors, and an IMU sensor for vibration monitoring."
+  },
+  {
+    "question": "How does the robot record defects?",
+    "answer": "The robot can save defect images along with timestamps, estimated locations, and defect details for later review."
+  },
+  {
+    "question": "Can the robot work autonomously?",
+    "answer": "Yes, with suitable navigation, control, and safety systems, a robot can move along a planned inspection route with limited human intervention."
+  },
+  {
+    "question": "What are the advantages of a railway inspection robot?",
+    "answer": "It can support more consistent inspections, help document defects, reduce some manual inspection effort, and provide useful records for maintenance teams."
+  },
+  {
+    "question": "Can GPS locate every railway crack accurately?",
+    "answer": "No. GPS accuracy varies with the environment and may be poor near covered areas or structures. Wheel encoders and other sensors can help estimate the location."
+  },
+  {
+    "question": "Does the robot replace human railway inspectors?",
+    "answer": "No. The robot is intended to assist inspection teams. Detected defects should be reviewed by qualified railway personnel."
+  },
+  {
+    "question": "What happens when the robot detects a crack?",
+    "answer": "The system can save the image and related details, flag the suspected defect, and notify the inspection team if that feature is implemented."
+  }
+]
