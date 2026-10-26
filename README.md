@@ -76,8 +76,7 @@ The project demonstrates how a lightweight FAQ chatbot can make information abou
 
 **Shreya Kumari**
 
+CodeAlpha Language Translation Tool Project
 
-## 📄 License
 
-This project is intended for educational and demonstration purposes.
 
